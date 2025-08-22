@@ -52,7 +52,6 @@ Connect sensors to the Arduino Nano as per the provided circuit diagram.
 Upload the Arduino sketch via the Arduino IDE.
 
 3. Software Setup (Optional for app/dashboard)
-# Example for Flutter-based app (if included later)
 flutter pub get
 flutter run
 
