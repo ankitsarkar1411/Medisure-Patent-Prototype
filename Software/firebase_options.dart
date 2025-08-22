@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBpR9o55WOXZkbwDuQF2Jb4purnN18L89I',
+   
     appId: '1:207347177703:web:a7e8646cb8be7df7baea42',
     messagingSenderId: '207347177703',
     projectId: 'medisure-2024',
